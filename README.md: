@@ -1,0 +1,56 @@
+# 🛒 Online Store v2 – Java Console Application
+
+This is the second version of a Java-based console application simulating 
+an online shopping platform. Developed as part of the Advanced Programming 
+course at the University of Isfahan, this version expands upon the 
+foundational features with added functionality, better exception handling, 
+and a more modular architecture.
+
+---
+
+## 🚀 Key Features
+
+- **Role-based system:** Admin, Seller, and Buyer accounts
+- **Product catalog:** Multi-category system with category-specific fields 
+(e.g., electronics, clothing)
+- **Product comparison:** Uses `Comparable` interface to sort by type, 
+name, rating, price, and stock
+- **Warranty system:** `WarrantyCapable` interface with custom logic for 
+digital and home appliances
+- **Discount engine:** Create and apply time-limited, capacity-based 
+discount codes
+- **Exception management:** Custom exception classes for invalid input, 
+purchase errors, and discount misuse
+- **Admin control panel:** Validate sellers, manage users, track all 
+discount codes
+- **Seller tools:** Add/edit products, apply discounts, manage inventory
+- **Buyer tools:** Add to cart, apply discount codes, complete purchases 
+with validation
+
+---
+
+## 🧰 Technologies Used
+
+- **Language:** Java (JDK 8+)
+- **IDE:** IntelliJ / VS Code / NetBeans
+- **Version Control:** Git (Phase committed to branch `main` or `2_Phase`)
+- **Interface:** Text-based / Console-driven
+- **Structure:** OOP with modular package layout
+
+---
+
+
+## 📌 Notes
+
+- This project is **Phase 2** of a multi-phase build and is structured for 
+scalability.
+- Future phases will add persistence, UI, and multi-user interactions.
+
+## 👤 Author
+
+Anita Esmaeilian  
+[LinkedIn](https://linkedin.com/in/anitaesmaeilian)
+
+---
+
+
