@@ -1,0 +1,1 @@
+productID=1, name='a', brand='a', price=1, seller=a, availability=true, description='a', averageScore=0, commentsList=[]memoryCapacity=1, ram=1, operatingSystem='a', weight=1, dimensions='1simcardsNumber=1, cameraResolution=1
